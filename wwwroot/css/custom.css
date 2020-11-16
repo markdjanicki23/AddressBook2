@@ -1,0 +1,77 @@
+﻿.fa 
+{
+    color: black !important;
+}
+
+a 
+{
+    color: black !important;
+}
+
+body 
+{
+background-color: white;
+color: black;
+}
+
+.dataTables_wrapper 
+.dataTables_filter input 
+{
+    background-color: white;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active {
+    cursor: default;
+    color: black !important;
+    border: 1px solid transparent;
+    background: transparent;
+    box-shadow: none;
+}
+
+.dataTables_wrapper .dataTables_length select
+{
+    background-color: white;
+}
+
+h1 
+{
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+
+label{
+    color: black;
+}
+
+button{
+    text-align: center;
+    width: 75vh;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.form-control #avatarform{
+    background-color: transparent;
+}
+
+#submitbtnform{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#submitbtn{
+    width: 200px;
+}
+
+#backtolist{
+    text-align: center;
+}
+
+div {
+    white-space: nowrap;
+}
+
+.container {
+    max-width: 80%;
+}
